@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "spring.datasourec.hikari.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourec.hikari.connection-timeout'"
+  },
+  {
+    "name": "javax.persistence.jdbc.url",
+    "type": "java.lang.String",
+    "description": "A description for 'javax.persistence.jdbc.url'"
+  },
+  {
+    "name": "javax.persistence.jdbc.user",
+    "type": "java.lang.String",
+    "description": "A description for 'javax.persistence.jdbc.user'"
+  }
+]}{
+    "name": "javax.persistence.jdbc.password",
+    "type": "java.lang.String",
+    "description": "A description for 'javax.persistence.jdbc.password'"
+  }
+]}{
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  }
+]}{
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  }
+]}
